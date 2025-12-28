@@ -3,7 +3,7 @@
 This is the official website for the SWA PTFS airline.
 
 ## 🌐 Live Website
-https://YOURUSERNAME.github.coming soon
+https://h0ck3y-swa.github.io/SWA-PTFS/ in progress
 
 ## 📁 Files
 - index.html — Main website page
